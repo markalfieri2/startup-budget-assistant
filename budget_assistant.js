@@ -1,5 +1,3 @@
-git config --global user.email "markalfieri@usf.edu"    
->>   git config --global user.name "markalfieri2"
 
 // Step 1: Initialize Variables
 let startupName = "TechSpark Solutions"; // Startup name
